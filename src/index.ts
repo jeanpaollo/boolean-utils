@@ -1,1 +1,1 @@
-export * from "./boolean.utils";
+export * from "./barrel";

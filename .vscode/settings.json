@@ -4,5 +4,10 @@
     "source.organizeImports": "always"
   },
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#13350D",
+    "titleBar.activeBackground": "#1A4A12",
+    "titleBar.activeForeground": "#F6FDF5"
+  }
 }
